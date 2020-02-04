@@ -1,21 +1,17 @@
 package models;
 
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-class HeroTest {
+public class HeroTest {
 
-    @org.junit.jupiter.api.BeforeEach
-    void setUp() {
-    }
 
-    @org.junit.jupiter.api.AfterEach
-    void tearDown() {
-    }
     @Test
     public void NewHeroGetsCorrectlyCreated_true() throws Exception{
-        Hero hero = new Hero ("Hero 1 : SpiderMan");
-        assertEquals(true,hero instanceof Hero)
+        Hero hero = new Hero ("SpiderMan","infinite Webs","Love",24);
+        assertEquals(true,hero instanceof Hero);
     }
 }
