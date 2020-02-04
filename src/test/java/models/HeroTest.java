@@ -14,4 +14,9 @@ public class HeroTest {
         Hero hero = new Hero ("SpiderMan","infinite Webs","Love",24);
         assertEquals(true,hero instanceof Hero);
     }
+    @Test
+    public void HeroInstantiatesWithContent_True() throws Exception{
+        Hero hero = new Hero("SpiderMan","infinite Webs","Love",24);
+        assertEquals ("SpiderMan", hero.getName());
+    }
 }

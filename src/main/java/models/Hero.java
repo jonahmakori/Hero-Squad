@@ -1,16 +1,28 @@
 package models;
 
 public class Hero {
-    int  Age;
-    String Name;
-    String Powers;
-    String Weakness;
+    int  age;
+    String name;
+    String powers;
+    String weakness;
 
-    public Hero(String spiderMan, String infinite_webs, String love, int Age ) {
-        this.Name = spiderMan;
-        this.Age = 24;
-        this.Powers = infinite_webs;
-        this.Weakness = love;
+    public Hero(String name, String powers, String weakness, int age ) {
+        this.name = name;
+        this.age = age;
+        this.powers = powers;
+        this.weakness = weakness;
 
+    }
+    public String getName(){
+        return this.name;
+    }
+    public int getAge(){
+        return this.age;
+    }
+    public String getWeakness(){
+        return this.weakness;
+    }
+    public String getPowers(){
+        return this.powers;
     }
 }
