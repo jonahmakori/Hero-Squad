@@ -19,5 +19,7 @@ public class HeroTest {
         Hero hero = new Hero("SpiderMan","infinite Webs","Love",24);
         assertEquals ("SpiderMan", hero.getName());
         assertEquals("infinite Webs",hero.getPowers());
+        assertEquals(24,hero.getAge());
+        assertEquals("Love",hero.getWeakness());
     }
 }
