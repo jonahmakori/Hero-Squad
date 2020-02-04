@@ -18,5 +18,6 @@ public class HeroTest {
     public void HeroInstantiatesWithContent_True() throws Exception{
         Hero hero = new Hero("SpiderMan","infinite Webs","Love",24);
         assertEquals ("SpiderMan", hero.getName());
+        assertEquals("infinite Webs",hero.getPowers());
     }
 }
