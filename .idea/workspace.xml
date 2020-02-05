@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89b843aa-f84a-438d-9d3d-d7b0953c8b29" name="Default Changelist" comment="debugged">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Squod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Squad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/HeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/HeroTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hero-Squad" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hero-Squad" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hero-Squad" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hero-Squad" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XKRGye4HZSCR5wHU6I6uduabKb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/models" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="models" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.HeroTest">
+    <configuration name="Hero-Squad [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;models.HeroTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroTest.HeroInstantiatesWithProperties_True" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;models.HeroTest.HeroInstantiatesWithProperties_True&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroTest.NewHeroGetsCorrectlyCreated_false" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;models.HeroTest.NewHeroGetsCorrectlyCreated_false&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroTest.NewHeroGetsCorrectlyCreated_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;models.HeroTest.NewHeroGetsCorrectlyCreated_true&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HeroTest" />
+        <item itemvalue="Gradle.Hero-Squad [dependencies]" />
+        <item itemvalue="Gradle.HeroTest.NewHeroGetsCorrectlyCreated_true" />
+        <item itemvalue="Gradle.HeroTest.HeroInstantiatesWithProperties_True" />
+        <item itemvalue="Gradle.HeroTest.NewHeroGetsCorrectlyCreated_false" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89b843aa-f84a-438d-9d3d-d7b0953c8b29" name="Default Changelist" comment="" />
+      <created>1580792707929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580792707929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="debugged" />
+    <option name="LAST_COMMIT_MESSAGE" value="debugged" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="885" y="168" width="655" height="605" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1580826382684">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="885" y="168" width="655" height="605" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/70.34.1530.866@70.34.1530.866" timestamp="1580826382684" />
+    <state x="170" y="134" width="1330" height="666" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580843091794">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="170" y="134" width="1330" height="666" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/70.34.1530.866@70.34.1530.866" timestamp="1580843091794" />
+    <state x="515" y="183" width="630" height="574" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580828587716">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="515" y="183" width="630" height="574" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.34.1530.866@70.34.1530.866" timestamp="1580828587716" />
+    <state x="351" y="34" width="958" height="866" key="CommitChangelistDialog2" timestamp="1580842434189">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="351" y="34" width="958" height="866" key="CommitChangelistDialog2/70.34.1530.866@70.34.1530.866" timestamp="1580842434189" />
+    <state x="527" y="150" width="606" height="640" key="FileChooserDialogImpl" timestamp="1580844686966">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="527" y="150" width="606" height="640" key="FileChooserDialogImpl/70.34.1530.866@70.34.1530.866" timestamp="1580844686966" />
+    <state width="1474" height="251" key="GridCell.Tab.0.bottom" timestamp="1580843553057">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.0.bottom/70.34.1530.866@70.34.1530.866" timestamp="1580843553057" />
+    <state width="1474" height="251" key="GridCell.Tab.0.center" timestamp="1580843553056">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.0.center/70.34.1530.866@70.34.1530.866" timestamp="1580843553056" />
+    <state width="1474" height="251" key="GridCell.Tab.0.left" timestamp="1580843553056">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.0.left/70.34.1530.866@70.34.1530.866" timestamp="1580843553056" />
+    <state width="1474" height="251" key="GridCell.Tab.0.right" timestamp="1580843553057">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.0.right/70.34.1530.866@70.34.1530.866" timestamp="1580843553057" />
+    <state width="1474" height="251" key="GridCell.Tab.1.bottom" timestamp="1580843553058">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.1.bottom/70.34.1530.866@70.34.1530.866" timestamp="1580843553058" />
+    <state width="1474" height="251" key="GridCell.Tab.1.center" timestamp="1580843553058">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.1.center/70.34.1530.866@70.34.1530.866" timestamp="1580843553058" />
+    <state width="1474" height="251" key="GridCell.Tab.1.left" timestamp="1580843553057">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.1.left/70.34.1530.866@70.34.1530.866" timestamp="1580843553057" />
+    <state width="1474" height="251" key="GridCell.Tab.1.right" timestamp="1580843553058">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state width="1474" height="251" key="GridCell.Tab.1.right/70.34.1530.866@70.34.1530.866" timestamp="1580843553058" />
+    <state x="331" y="34" width="1259" height="866" key="SettingsEditor" timestamp="1580838160966">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="331" y="34" width="1259" height="866" key="SettingsEditor/70.34.1530.866@70.34.1530.866" timestamp="1580838160966" />
+    <state x="554" y="238" width="542" height="472" key="chooseDestDirectoryDialog" timestamp="1580841496746">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="554" y="238" width="542" height="472" key="chooseDestDirectoryDialog/70.34.1530.866@70.34.1530.866" timestamp="1580841496746" />
+    <state x="558" y="369" width="543" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580842417965">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="558" y="369" width="543" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.34.1530.866@70.34.1530.866" timestamp="1580842417965" />
+    <state x="523" y="120" width="614" height="701" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580841496757">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="523" y="120" width="614" height="701" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.34.1530.866@70.34.1530.866" timestamp="1580841496757" />
+    <state x="70" y="34" width="1520" height="866" key="new project wizard" timestamp="1580841608963">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="70" y="34" width="1520" height="866" key="new project wizard/70.34.1530.866@70.34.1530.866" timestamp="1580841608963" />
+    <state x="900" y="34" width="625" height="866" key="refactoring.ChangeSignatureDialog" timestamp="1580826905916">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="900" y="34" width="625" height="866" key="refactoring.ChangeSignatureDialog/70.34.1530.866@70.34.1530.866" timestamp="1580826905916" />
+  </component>
+</project>
