@@ -2,8 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89b843aa-f84a-438d-9d3d-d7b0953c8b29" name="Default Changelist" comment="debugged">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Sanh.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/hero-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad-success.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/success.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/models/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/models/HeroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/models/HeroTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/models.HeroTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/models.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/models.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-models.HeroTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Squad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Squad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/form.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/HeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/HeroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/SquadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/SquadTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +91,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/jonahmakori/Hero-Squad.git" />
+      </set>
+    </option>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -71,22 +116,27 @@
     </option>
   </component>
   <component name="ProjectId" id="1XKRGye4HZSCR5wHU6I6uduabKb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
@@ -97,26 +147,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.HeroTest">
-    <configuration name="Hero-Squad [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="dependencies" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.SquadTest">
     <configuration name="HeroTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -137,12 +168,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HeroTest.HeroInstantiatesWithProperties_True" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SquadTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;models.HeroTest.HeroInstantiatesWithProperties_True&quot;" />
+        <option name="scriptParameters" value="--tests &quot;models.SquadTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -157,12 +188,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HeroTest.NewHeroGetsCorrectlyCreated_false" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SquadTest.checkTheSquadSize" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;models.HeroTest.NewHeroGetsCorrectlyCreated_false&quot;" />
+        <option name="scriptParameters" value="--tests &quot;models.SquadTest.checkTheSquadSize&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -177,12 +208,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HeroTest.NewHeroGetsCorrectlyCreated_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SquadTest.setName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;models.HeroTest.NewHeroGetsCorrectlyCreated_true&quot;" />
+        <option name="scriptParameters" value="--tests &quot;models.SquadTest.setName&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SquadTest.squadInstanceOfId" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;models.SquadTest.squadInstanceOfId&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -199,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SquadTest" />
+        <item itemvalue="Gradle.SquadTest.setName" />
+        <item itemvalue="Gradle.SquadTest.squadInstanceOfId" />
+        <item itemvalue="Gradle.SquadTest.checkTheSquadSize" />
         <item itemvalue="Gradle.HeroTest" />
-        <item itemvalue="Gradle.Hero-Squad [dependencies]" />
-        <item itemvalue="Gradle.HeroTest.NewHeroGetsCorrectlyCreated_true" />
-        <item itemvalue="Gradle.HeroTest.HeroInstantiatesWithProperties_True" />
-        <item itemvalue="Gradle.HeroTest.NewHeroGetsCorrectlyCreated_false" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +271,9 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -234,6 +288,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="debugged" />
     <option name="LAST_COMMIT_MESSAGE" value="debugged" />
   </component>
@@ -246,66 +301,82 @@
       <screen x="70" y="34" width="1530" height="866" />
     </state>
     <state x="170" y="134" width="1330" height="666" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/70.34.1530.866@70.34.1530.866" timestamp="1580843091794" />
+    <state x="854" y="254" width="717" height="432" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580891558575">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="854" y="254" width="717" height="432" key="#com.intellij.fileTypes.FileTypeChooser/70.34.1530.866@70.34.1530.866" timestamp="1580891558575" />
+    <state x="596" y="78" width="468" height="784" key="#com.intellij.ide.util.MemberChooser" timestamp="1580997228825">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="596" y="78" width="468" height="784" key="#com.intellij.ide.util.MemberChooser/70.34.1530.866@70.34.1530.866" timestamp="1580997228825" />
     <state x="515" y="183" width="630" height="574" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580828587716">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
     <state x="515" y="183" width="630" height="574" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.34.1530.866@70.34.1530.866" timestamp="1580828587716" />
-    <state x="351" y="34" width="958" height="866" key="CommitChangelistDialog2" timestamp="1580842434189">
+    <state x="351" y="34" width="958" height="866" key="CommitChangelistDialog2" timestamp="1581021881318">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state x="351" y="34" width="958" height="866" key="CommitChangelistDialog2/70.34.1530.866@70.34.1530.866" timestamp="1580842434189" />
+    <state x="351" y="34" width="958" height="866" key="CommitChangelistDialog2/70.34.1530.866@70.34.1530.866" timestamp="1581021881318" />
     <state x="527" y="150" width="606" height="640" key="FileChooserDialogImpl" timestamp="1580844686966">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
     <state x="527" y="150" width="606" height="640" key="FileChooserDialogImpl/70.34.1530.866@70.34.1530.866" timestamp="1580844686966" />
-    <state width="1474" height="251" key="GridCell.Tab.0.bottom" timestamp="1580843553057">
+    <state width="709" height="213" key="GridCell.Tab.0.bottom" timestamp="1581016994439">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.0.bottom/70.34.1530.866@70.34.1530.866" timestamp="1580843553057" />
-    <state width="1474" height="251" key="GridCell.Tab.0.center" timestamp="1580843553056">
+    <state width="709" height="213" key="GridCell.Tab.0.bottom/70.34.1530.866@70.34.1530.866" timestamp="1581016994439" />
+    <state width="709" height="213" key="GridCell.Tab.0.center" timestamp="1581016994439">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.0.center/70.34.1530.866@70.34.1530.866" timestamp="1580843553056" />
-    <state width="1474" height="251" key="GridCell.Tab.0.left" timestamp="1580843553056">
+    <state width="709" height="213" key="GridCell.Tab.0.center/70.34.1530.866@70.34.1530.866" timestamp="1581016994439" />
+    <state width="709" height="213" key="GridCell.Tab.0.left" timestamp="1581016994438">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.0.left/70.34.1530.866@70.34.1530.866" timestamp="1580843553056" />
-    <state width="1474" height="251" key="GridCell.Tab.0.right" timestamp="1580843553057">
+    <state width="709" height="213" key="GridCell.Tab.0.left/70.34.1530.866@70.34.1530.866" timestamp="1581016994438" />
+    <state width="709" height="213" key="GridCell.Tab.0.right" timestamp="1581016994439">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.0.right/70.34.1530.866@70.34.1530.866" timestamp="1580843553057" />
-    <state width="1474" height="251" key="GridCell.Tab.1.bottom" timestamp="1580843553058">
+    <state width="709" height="213" key="GridCell.Tab.0.right/70.34.1530.866@70.34.1530.866" timestamp="1581016994439" />
+    <state width="709" height="3" key="GridCell.Tab.1.bottom" timestamp="1581015994614">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.1.bottom/70.34.1530.866@70.34.1530.866" timestamp="1580843553058" />
-    <state width="1474" height="251" key="GridCell.Tab.1.center" timestamp="1580843553058">
+    <state width="709" height="3" key="GridCell.Tab.1.bottom/70.34.1530.866@70.34.1530.866" timestamp="1581015994614" />
+    <state width="709" height="3" key="GridCell.Tab.1.center" timestamp="1581015994612">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.1.center/70.34.1530.866@70.34.1530.866" timestamp="1580843553058" />
-    <state width="1474" height="251" key="GridCell.Tab.1.left" timestamp="1580843553057">
+    <state width="709" height="3" key="GridCell.Tab.1.center/70.34.1530.866@70.34.1530.866" timestamp="1581015994612" />
+    <state width="709" height="3" key="GridCell.Tab.1.left" timestamp="1581015994611">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.1.left/70.34.1530.866@70.34.1530.866" timestamp="1580843553057" />
-    <state width="1474" height="251" key="GridCell.Tab.1.right" timestamp="1580843553058">
+    <state width="709" height="3" key="GridCell.Tab.1.left/70.34.1530.866@70.34.1530.866" timestamp="1581015994611" />
+    <state width="709" height="3" key="GridCell.Tab.1.right" timestamp="1581015994614">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="1474" height="251" key="GridCell.Tab.1.right/70.34.1530.866@70.34.1530.866" timestamp="1580843553058" />
+    <state width="709" height="3" key="GridCell.Tab.1.right/70.34.1530.866@70.34.1530.866" timestamp="1581015994614" />
     <state x="331" y="34" width="1259" height="866" key="SettingsEditor" timestamp="1580838160966">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
     <state x="331" y="34" width="1259" height="866" key="SettingsEditor/70.34.1530.866@70.34.1530.866" timestamp="1580838160966" />
-    <state x="554" y="238" width="542" height="472" key="chooseDestDirectoryDialog" timestamp="1580841496746">
+    <state x="538" y="105" width="584" height="731" key="VCS.ChangeListViewerDialog" timestamp="1580887519714">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state x="554" y="238" width="542" height="472" key="chooseDestDirectoryDialog/70.34.1530.866@70.34.1530.866" timestamp="1580841496746" />
-    <state x="558" y="369" width="543" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580842417965">
+    <state x="538" y="105" width="584" height="731" key="VCS.ChangeListViewerDialog/70.34.1530.866@70.34.1530.866" timestamp="1580887519714" />
+    <state x="554" y="238" width="542" height="472" key="chooseDestDirectoryDialog" timestamp="1580887245566">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state x="558" y="369" width="543" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.34.1530.866@70.34.1530.866" timestamp="1580842417965" />
-    <state x="523" y="120" width="614" height="701" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580841496757">
+    <state x="554" y="238" width="542" height="472" key="chooseDestDirectoryDialog/70.34.1530.866@70.34.1530.866" timestamp="1580887245566" />
+    <state x="392" y="34" width="876" height="866" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580911687623">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state x="523" y="120" width="614" height="701" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.34.1530.866@70.34.1530.866" timestamp="1580841496757" />
+    <state x="392" y="34" width="876" height="866" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.34.1530.866@70.34.1530.866" timestamp="1580911687623" />
+    <state x="558" y="369" width="543" height="216" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580887101548">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="558" y="369" width="543" height="216" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.34.1530.866@70.34.1530.866" timestamp="1580887101548" />
+    <state x="523" y="120" width="614" height="701" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580887245578">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="523" y="120" width="614" height="701" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.34.1530.866@70.34.1530.866" timestamp="1580887245578" />
     <state x="70" y="34" width="1520" height="866" key="new project wizard" timestamp="1580841608963">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
@@ -314,5 +385,13 @@
       <screen x="70" y="34" width="1530" height="866" />
     </state>
     <state x="900" y="34" width="625" height="866" key="refactoring.ChangeSignatureDialog/70.34.1530.866@70.34.1530.866" timestamp="1580826905916" />
+    <state x="798" y="205" key="run.anything.popup" timestamp="1581017586473">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="798" y="205" key="run.anything.popup/70.34.1530.866@70.34.1530.866" timestamp="1581017586473" />
+    <state x="758" y="34" width="840" height="864" key="search.everywhere.popup" timestamp="1581021641837">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="758" y="34" width="840" height="864" key="search.everywhere.popup/70.34.1530.866@70.34.1530.866" timestamp="1581021641837" />
   </component>
 </project>

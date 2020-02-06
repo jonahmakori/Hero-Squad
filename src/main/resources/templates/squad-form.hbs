@@ -1,0 +1,24 @@
+{{#partial "content"}}
+    <div class="card p-4 mt-4" id="my-squad">
+        <form action="/squad-created" method="post">
+            <h3></h3>
+            <div class="form-group">
+                <label for="name">Name of squad</label>
+                <input type="text" name="name" class="form-control" id="name" value="{{heroFound.squad}}">
+            </div>
+            <div class="form-group">
+                <label for="motive">Squad's Mission</label>
+                <input type="text" name="mission" class="form-control" id="mission" type="text">
+            </div>
+            <div class="form-group">
+                <label for="size">Maximum size</label>
+                <input type="number" name="size" min="0" required class="form-control" id="size" placeholder="Enter max size ">
+            </div>
+            <div class="text-center">
+                <button class="btn btn-outline-success"><i class="fa fa-plus "></i>
+                    Add to squad</button>
+            </div>
+        </form>
+    </div>
+{{/partial}}
+{{> layout.hbs}}

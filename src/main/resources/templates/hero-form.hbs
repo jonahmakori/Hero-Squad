@@ -1,0 +1,20 @@
+{{#partial "content"}}
+    {{#if squads}}
+        <h3 class="text-center m-4">Squads Available</h3>
+        {{#each squads}}
+            <div id="squad-card" class="card p-4 mt-3">
+                <h3 class="ml-4">Squad name: {{name}}</h3>
+                <hr>
+                <h5>Mission: {{mission}}</h5>
+                <p>Maximum size: {{size}}</p>
+                {{#each hero}}
+                    <p>Member name:{{name}}</p>
+                {{/each}}
+                <p>Total number of members: {{size}}</p>
+            </div>
+        {{/each}}
+    {{else}}
+        <h1>No squad at the moment</h1>
+    {{/if}}
+{{/partial}}
+{{> layout.hbs}}
