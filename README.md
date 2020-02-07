@@ -35,3 +35,7 @@ View the complete site [here](https://github.com/jonahmakori/Hero-Squad)
 My Grade
 [![codebeat badge](https://codebeat.co/badges/e9848b85-7e61-4086-855f-456e49d6156b)](https://codebeat.co/projects/github-com-jonahmakori-ceaser-cipher-feature-caeser-cipher)
 
+## Support and contact details
+
+ - Email jonahmakori0@gmail.com
+ - Tel: 0700222621
