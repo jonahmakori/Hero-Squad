@@ -2,7 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89b843aa-f84a-438d-9d3d-d7b0953c8b29" name="Default Changelist" comment="debugged">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/ja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/jb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/hero-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/home.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/squad-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/squad-success.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/success.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/.heroku-deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/ja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/jb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/hero-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/home.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/squad-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/squad-success.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/success.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-models.HeroTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-models.SquadTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/models.HeroTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/models.SquadTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.HeroTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.SquadTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/models.HeroTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/models.SquadTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,20 +1,26 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-
+import java.util.*;
 import models.Hero;
 import models.Squad;
 import spark.ModelAndView;
 import spark.template.handlebars.HandlebarsTemplateEngine;
 import static spark.Spark.*;
 public class App {
+    static int getHerokuAssignedPort() {
+        ProcessBuilder processBuilder = new ProcessBuilder();
+        if (processBuilder.environment().get("PORT") != null) {
+            return Integer.parseInt(processBuilder.environment().get("PORT"));
+        }
+        return 4567; //return default port if heroku-port isn't set (i.e. on localhost)
+    }
     public static void main(String[] args){
         Map<String,Object> model = new HashMap<>();
+        port(getHerokuAssignedPort());
         staticFileLocation("/public");
 
         get("/",(request, response) -> {
-            ArrayList<Hero> hero = Hero.getNumberOfHeros();
-            model.put("hero",hero);
             return new ModelAndView(model, "home.hbs");
         }, new HandlebarsTemplateEngine());
 
