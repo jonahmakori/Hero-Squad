@@ -15,7 +15,7 @@ This is an app whereby A user Creates a Hero and Assigns the hero t a Squad.
 
 | Behaviour | Input | Output |
 | --------- | ------| ------ |
-|Gradle Run on server locally in port (4567)|Click on the Add to Squad And then Will be succesful|
+|Gradle Run on server locally in port (4567)|Click on the Cerate Hero luink And Create Hero|Click on the Add to Squad And then Will be successful|
 
 
 
@@ -33,7 +33,7 @@ View the complete site [here](https://github.com/jonahmakori/Hero-Squad)
 ## codebeat
 
 My Grade
-[![codebeat badge](https://codebeat.co/badges/e9848b85-7e61-4086-855f-456e49d6156b)](https://codebeat.co/projects/github-com-jonahmakori-ceaser-cipher-feature-caeser-cipher)
+[![codebeat badge](https://codebeat.co/badges/2fa9a414-049d-4611-8bb0-aa9bb692c013)](https://codebeat.co/projects/github-com-jonahmakori-hero-squad-feature-dev)
 
 ## Support and contact details
 
