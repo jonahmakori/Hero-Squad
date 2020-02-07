@@ -39,3 +39,10 @@ My Grade
 
  - Email jonahmakori0@gmail.com
  - Tel: 0700222621
+
+### License
+
+The project is under[MIT license](/blob/master/LICENSE)
+Copyright &copy; 2019.All rigths reserved
+
+
