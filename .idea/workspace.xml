@@ -2,45 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89b843aa-f84a-438d-9d3d-d7b0953c8b29" name="Default Changelist" comment="debugged">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/hero-form.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad-form.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad-success.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/success.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/ja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/jb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/models/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/models/HeroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/models/HeroTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/models.HeroTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/models.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/models.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-models.HeroTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Squad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Squad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/form.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/HeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/HeroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/SquadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/SquadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/success.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/success.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,6 +271,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="debugged" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="590" y="47" width="1000" height="846" key="#Template_Data_Languages" timestamp="1581064668226">
+      <screen x="70" y="34" width="1530" height="866" />
+    </state>
+    <state x="590" y="47" width="1000" height="846" key="#Template_Data_Languages/70.34.1530.866@70.34.1530.866" timestamp="1581064668226" />
     <state x="885" y="168" width="655" height="605" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1580826382684">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
@@ -321,38 +303,38 @@
       <screen x="70" y="34" width="1530" height="866" />
     </state>
     <state x="527" y="150" width="606" height="640" key="FileChooserDialogImpl/70.34.1530.866@70.34.1530.866" timestamp="1580844686966" />
-    <state width="709" height="213" key="GridCell.Tab.0.bottom" timestamp="1581016994439">
+    <state width="709" height="3" key="GridCell.Tab.0.bottom" timestamp="1581058031227">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="213" key="GridCell.Tab.0.bottom/70.34.1530.866@70.34.1530.866" timestamp="1581016994439" />
-    <state width="709" height="213" key="GridCell.Tab.0.center" timestamp="1581016994439">
+    <state width="709" height="3" key="GridCell.Tab.0.bottom/70.34.1530.866@70.34.1530.866" timestamp="1581058031227" />
+    <state width="709" height="3" key="GridCell.Tab.0.center" timestamp="1581058031227">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="213" key="GridCell.Tab.0.center/70.34.1530.866@70.34.1530.866" timestamp="1581016994439" />
-    <state width="709" height="213" key="GridCell.Tab.0.left" timestamp="1581016994438">
+    <state width="709" height="3" key="GridCell.Tab.0.center/70.34.1530.866@70.34.1530.866" timestamp="1581058031227" />
+    <state width="709" height="3" key="GridCell.Tab.0.left" timestamp="1581058031226">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="213" key="GridCell.Tab.0.left/70.34.1530.866@70.34.1530.866" timestamp="1581016994438" />
-    <state width="709" height="213" key="GridCell.Tab.0.right" timestamp="1581016994439">
+    <state width="709" height="3" key="GridCell.Tab.0.left/70.34.1530.866@70.34.1530.866" timestamp="1581058031226" />
+    <state width="709" height="3" key="GridCell.Tab.0.right" timestamp="1581058031227">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="213" key="GridCell.Tab.0.right/70.34.1530.866@70.34.1530.866" timestamp="1581016994439" />
-    <state width="709" height="3" key="GridCell.Tab.1.bottom" timestamp="1581015994614">
+    <state width="709" height="3" key="GridCell.Tab.0.right/70.34.1530.866@70.34.1530.866" timestamp="1581058031227" />
+    <state width="709" height="3" key="GridCell.Tab.1.bottom" timestamp="1581058031228">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="3" key="GridCell.Tab.1.bottom/70.34.1530.866@70.34.1530.866" timestamp="1581015994614" />
-    <state width="709" height="3" key="GridCell.Tab.1.center" timestamp="1581015994612">
+    <state width="709" height="3" key="GridCell.Tab.1.bottom/70.34.1530.866@70.34.1530.866" timestamp="1581058031228" />
+    <state width="709" height="3" key="GridCell.Tab.1.center" timestamp="1581058031228">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="3" key="GridCell.Tab.1.center/70.34.1530.866@70.34.1530.866" timestamp="1581015994612" />
-    <state width="709" height="3" key="GridCell.Tab.1.left" timestamp="1581015994611">
+    <state width="709" height="3" key="GridCell.Tab.1.center/70.34.1530.866@70.34.1530.866" timestamp="1581058031228" />
+    <state width="709" height="3" key="GridCell.Tab.1.left" timestamp="1581058031227">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="3" key="GridCell.Tab.1.left/70.34.1530.866@70.34.1530.866" timestamp="1581015994611" />
-    <state width="709" height="3" key="GridCell.Tab.1.right" timestamp="1581015994614">
+    <state width="709" height="3" key="GridCell.Tab.1.left/70.34.1530.866@70.34.1530.866" timestamp="1581058031227" />
+    <state width="709" height="3" key="GridCell.Tab.1.right" timestamp="1581058031228">
       <screen x="70" y="34" width="1530" height="866" />
     </state>
-    <state width="709" height="3" key="GridCell.Tab.1.right/70.34.1530.866@70.34.1530.866" timestamp="1581015994614" />
+    <state width="709" height="3" key="GridCell.Tab.1.right/70.34.1530.866@70.34.1530.866" timestamp="1581058031228" />
     <state x="331" y="34" width="1259" height="866" key="SettingsEditor" timestamp="1580838160966">
       <screen x="70" y="34" width="1530" height="866" />
     </state>

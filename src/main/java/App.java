@@ -15,10 +15,16 @@ public class App {
         get("/",(request, response) -> {
             ArrayList<Hero> hero = Hero.getNumberOfHeros();
             model.put("hero",hero);
+            return new ModelAndView(model, "home.hbs");
+        }, new HandlebarsTemplateEngine());
+
+        get("/hero",(request, response) -> {
+            ArrayList<Hero> hero = Hero.getNumberOfHeros();
+            model.put("hero",hero);
             return new ModelAndView(model, "index.hbs");
         }, new HandlebarsTemplateEngine());
 
-        post("/success", (request, response) -> { //URL to make new post on POST route
+        post("/success", (request, response) -> {
             String name = request.queryParams("name");
             String weakness = request.queryParams("weakness");
             String powers = request.queryParams("powers");
@@ -41,13 +47,10 @@ public class App {
 
 
         post("/squad-created", (request, response) -> {
-//            int idOfHeroToFind = Integer.parseInt(request.params(":id"));
-//            Hero foundHero = Hero.findById(idOfHeroToFind);
             String name = request.queryParams("name");
             String mission = request.queryParams("mission");
             int size = Integer.parseInt(request.queryParams("size"));
             Squad squad = new Squad(name, mission, size,1);
-//            model.put("hero",foundHero);
             return new ModelAndView(model, "squad-success.hbs");
         }, new HandlebarsTemplateEngine());
 

@@ -2,7 +2,7 @@
     <h2 class="text-center mt-3" style="color:white;"></h2>
     <div class="container mt-4">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6" style="">
                 <div class="card p-3">
                     <h5 class="text-center">Create hero</h5>
                     <form action="/success" method="post">
@@ -33,9 +33,7 @@
                         </div>
                     </form>
                 </div>
-            </div>
-    <h1>HEROES & HEROINS</h1>
-    <div class="col-md-8">
+    <div class="" style="">
         <div>
             <div class="row">
             <div class="col-md-12 mt-2">
@@ -47,23 +45,23 @@
     <ul>
         <li>Name : {{name}}</li>
         <li>Age : {{age}}</li>
-        <li>Powers :  {{powers}}</li>
-        <li>Weakness :{{weakness}}</li>
+        <li>Weakness :  {{powers}}</li>
+        <li>Powers :{{weakness}}</li>
         <li>Squad  :{{squadTeam}}</li>
         <li>Created At : {{createdAt}}</li>
     </ul>
     <div class="text-center">
         <p><a href="/hero/{{id}}">Add to Squad</a> </p>
     </div>
-    {{/each}}
+    {{/each}} v
     {{else}} <!--no hero!-->
-    <h1 class="text-center">Add you hero here!!</h1>
     </div>
     </div>
     {{/if}}
     </div>
     </div>
     </div>
+        </div>
     </div>
     </div>
 {{/partial}}
